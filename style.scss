@@ -1,0 +1,35 @@
+/* CSS Document */
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	background-color: #bedbed;
+}
+.container{
+	text-align:center;
+}
+table {
+	margin:auto;
+	td {
+		border: 1px solid;
+		.title {
+			font-weight: bold;
+		}
+	}
+}
+.space {
+	padding-top: 8%;
+}
+.space-sm {
+	padding-top: 1%;
+}
+input {
+	max-width: 10%;
+	margin: auto;
+	text-align: center;
+	font-size: 30px !important;
+}
+button {
+	margin-top: 1%;
+}
